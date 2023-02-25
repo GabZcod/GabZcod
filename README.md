@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c1010&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=218080&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f2f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,WORLD+MY+NAME+is+Gabriel+Natan;I'm+20+years+old;I+from+Brasil,+PR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabZcod&show_icons=true&count_private=true&hide_border=true&title_color=9c1010&icon_color=9c1010&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Natan github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabZcod&show_icons=true&count_private=true&hide_border=true&title_color=218080&icon_color=218080&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Natan github stats" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabZcod&theme=gotham)
@@ -40,4 +40,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabZcod}/count.svg" /></p> 
 <br></div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c1010&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=218080&height=120&section=footer"/>
