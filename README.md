@@ -4,6 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabZcod&show_icons=true&count_private=true&hide_border=true&title_color=218080&icon_color=218080&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Natan github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabZcod&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabZcod&theme=gotham)
@@ -34,6 +35,8 @@
   ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+  ![sass](https://img.shields.io/badge/-sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+  ![vue.js](https://img.shields.io/badge/-vue.js-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
